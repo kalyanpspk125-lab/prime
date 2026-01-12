@@ -2,7 +2,7 @@ name: Tar SCP Extract & Docker Deploy
 
 on:
   push:
-    branches: [save-dev]
+    branches: [main]
 
 jobs:
   deploy:
